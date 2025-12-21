@@ -1,5 +1,6 @@
-//This program is used to demonstrate the use of namespaces in C++
+//This program is used to demonstrate the use of namespaces in C++ and the implications of using [namespace]
 #include <iostream>
+//take [namespace std} as a example
 //insted of using 'using namespace std;', we will use [ std:: ]
 
 int main() {
