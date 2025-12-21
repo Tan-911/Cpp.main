@@ -1,3 +1,4 @@
+//003
 //This program is used to demonstrate the use of namespaces in C++ and the implications of using [namespace]
 #include <iostream>
 //take [namespace std} as a example
